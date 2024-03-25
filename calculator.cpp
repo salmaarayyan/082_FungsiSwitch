@@ -64,6 +64,8 @@ int main()
             input();
             cout << "hasil pengurangan = " << pengurangan(bilSatu, bilDua) << endl;
             break;
+        case 5 :
+            break;
         }
     }while()
 }
