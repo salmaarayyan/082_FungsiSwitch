@@ -40,6 +40,8 @@ int main()
         cout << "MENU" << endl;
         cout << "1. penjumlahan " << endl;
         cout << "2. pembagian " << endl;
+        cout << "3. perkalian " << endl;
+        
         
     }
 }
