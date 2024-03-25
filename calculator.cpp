@@ -56,6 +56,10 @@ int main()
             input();
             cout << "hasil pembagian = " << pembagian(bilSatu, bilDua) << endl;
             break; 
+        case 3 :
+            input();
+            cout << "hasil perkalian = " << perkalian(bilSatu, bilDua) << endl;
+            break;
         }
     }while()
 }
