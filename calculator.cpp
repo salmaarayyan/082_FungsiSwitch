@@ -48,10 +48,14 @@ int main()
 
         switch (pilihan)
         {
-            case 1 :
+        case 1 :
             input();
-            cout << "hasil penjumlahan = " << penjumlahan (bilSatu, bilDua) << endl;
+            cout << "hasil penjumlahan = " << penjumlahan(bilSatu, bilDua) << endl;
             break;
+        case 2 :
+            input();
+            cout << "hasil pembagian = " << pembagian(bilSatu, bilDua) << endl;
+            break; 
         }
     }while()
 }
