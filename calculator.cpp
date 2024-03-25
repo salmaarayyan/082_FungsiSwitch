@@ -70,5 +70,5 @@ int main()
             cout << "pilihan tidak ada" << endl;
             break;
         }
-    }while()
+    }while (pilihan != 5);
 }
