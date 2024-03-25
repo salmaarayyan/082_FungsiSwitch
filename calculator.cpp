@@ -43,6 +43,6 @@ int main()
         cout << "3. perkalian " << endl;
         cout << "4. pengurangan " << endl;
         cout << "5. exit " << endl;
-        
+        cout << "masukan pilihan 1/2/3/4/5 = ";
     }
 }
