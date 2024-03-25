@@ -38,6 +38,7 @@ int main()
     do {
         cout << "=======================" << endl;
         cout << "MENU" << endl;
+        cout << "1. penjumlahan " << endl;
         
     }
 }
