@@ -42,7 +42,7 @@ int main()
         cout << "2. pembagian " << endl;
         cout << "3. perkalian " << endl;
         cout << "4. pengurangan " << endl;
-        
+        cout << "5. exit " << endl;
         
     }
 }
